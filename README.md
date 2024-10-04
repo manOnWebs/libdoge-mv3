@@ -1,11 +1,32 @@
-chrome-libdoge
-==============
+libdoge-mv3
+===========
 
 such chrome extension for libdoge wow
+but for MV3
 
-Chrome Extension available at Chrome Store
-https://chrome.google.com/webstore/detail/such-good-doge/ifbchccfedjkkhlnffjckaghjdpchhmo
+most of the actual code for libdoge is unchanged; all that was added is the service worker.
 
-doge itself lives at https://github.com/ljalonen/libdoge
+doge itself lives [here](https://github.com/manOnWebs/libdoge).
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ljalonen/chrome-libdoge/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+such install instructiosn wow
+=====================
+
+1. download or clone the repository 
+```
+git clone https://github.com/manOnWebs/libdoge-mv3
+```
+
+2. open chrome
+
+3. go to extensions
+
+4. enable developer mode
+
+5. click "load unpacked"
+
+6. go to wherever you cloned / extracted the repository
+
+7. select the folder
+
+
+and you should be done
