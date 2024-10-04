@@ -1,6 +1,10 @@
 libdoge-mv3
 ===========
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Version](https://img.shields.io/badge/version-0.2-brightgreen.svg)
+
+
 such chrome extension for libdoge wow
 but for MV3
 
