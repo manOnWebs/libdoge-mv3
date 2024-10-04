@@ -8,7 +8,7 @@ most of the actual code for libdoge is unchanged; all that was added is the serv
 
 doge itself lives [here](https://github.com/manOnWebs/libdoge).
 
-such install instructiosn wow
+such install instruction wow
 =====================
 
 1. download or clone the repository 
