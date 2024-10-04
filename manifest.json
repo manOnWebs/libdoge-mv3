@@ -1,26 +1,24 @@
-
 {
-  "manifest_version": 2,
-
-  "name": "libdoge",
-  "description": "such god doge",
-  "version": "0.1.9",
-
+  "manifest_version": 3,
+  "name": "libdoge MV3",
+  "description": "such god doge, but in Mv3",
+  "version": "0.2",
   "icons": {
-    "48" : "img/icon-48.png",
-    "128" : "img/icon-128.png"
+    "48": "img/icon-48.png",
+    "128": "img/icon-128.png"
   },
   "background": {
-    "scripts": [
-      "run.js"
-    ],
-    "persistent": false
+    "service_worker": "service_worker.js"
   },
   "permissions": [
-    "activeTab"
+    "activeTab",
+    "scripting"
   ],
-  "browser_action": {
-    "default_title": "doge go",
+  "action": {
+    "default_title": "doge go | Manifest Version 3 build",
     "default_icon": "img/icon-19.png"
+  },
+  "content_security_policy": {
+    "extension_pages": "default-src 'self'; img-src 'self' https://raw.github.com/"
   }
 }
