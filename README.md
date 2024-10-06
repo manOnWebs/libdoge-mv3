@@ -48,6 +48,9 @@ or, go to [releases](https://github.com/manOnWebs/libdoge-mv3/releases) to get t
 
 8. doge should now invade your browser's extensions page
 
+   ![image](https://github.com/user-attachments/assets/d43e1158-4e07-4a81-be29-aaadb41e0bba)
+
+
 you are now done installing libdoge-mv3
 
 How to use
@@ -61,8 +64,10 @@ How to use
 
 3. click doge that invaded your browser moments ago
 
-4. doge will now invade that page too
+   ![image](https://github.com/user-attachments/assets/70d0f723-c79b-42e4-bc04-9980d235a829)
 
-5. press + to add doge
+6. doge will now invade that page too
 
-6. press - to subtract doge
+7. press + to add doge
+
+8. press - to subtract doge
