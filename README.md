@@ -1,7 +1,7 @@
 libdoge-mv3
 ===============
 
-![License](https://img.shields.io/badge/license-CC--BY--SA--4.0-blue)
+![License](https://img.shields.io/badge/license-WTFPL-blue)
 ![Version](https://img.shields.io/badge/version-0.2-brightgreen.svg)
 ![such screenshot, wow](https://github.com/user-attachments/assets/cdbcc766-46eb-45ff-b42a-22071aca0bef)
 (such sorry for the hdr screenshot, wow)
@@ -10,11 +10,10 @@ libdoge-mv3
 
 license
 -------------
-Doge is licensed under the [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license because, well, Doge *willed* it so. 
+Doge is licensed under the [WTFPL](http://www.wtfpl.net/about/) license because, well, Doge *willed* it so. 
 
 Much freedom.
-You are free to share and remix Doge to your heart’s content—as long as you give proper credit and release any new, evolved (or otherwise) Doges under the same license. If you switch it to another license...
-### ***you will go to hell before you die.***
+Do whatever you want with Doge!
 
 what is this?
 ---------------
