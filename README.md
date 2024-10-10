@@ -4,6 +4,7 @@ libdoge-mv3
 ![License](https://img.shields.io/badge/license-CC--BY--SA--4.0-blue)
 ![Version](https://img.shields.io/badge/version-0.2-brightgreen.svg)
 ![such screenshot, wow](https://github.com/user-attachments/assets/cdbcc766-46eb-45ff-b42a-22071aca0bef)
+(such sorry for the hdr screenshot, wow)
 
 
 
