@@ -3,8 +3,9 @@ libdoge-mv3
 
 ![License](https://img.shields.io/badge/license-CC--BY--SA--4.0-blue)
 ![Version](https://img.shields.io/badge/version-0.2-brightgreen.svg)
+![such screenshot, wow](https://github.com/user-attachments/assets/cdbcc766-46eb-45ff-b42a-22071aca0bef)
 
-![libdoge screenshot](https://private-user-images.githubusercontent.com/80761624/373829296-41db148b-7ed4-494d-8b0b-f00de5ccf1d9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgxNzQ4NDgsIm5iZiI6MTcyODE3NDU0OCwicGF0aCI6Ii84MDc2MTYyNC8zNzM4MjkyOTYtNDFkYjE0OGItN2VkNC00OTRkLThiMGItZjAwZGU1Y2NmMWQ5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA2VDAwMjkwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY4OWVmNDQxYTZlNzZkOGQ1MjA4NmM2YTQ0MjFkOTgyYTEwMzk1NTgzYjhhZTQyMTMxZWQ1ZDI2NDJiMDZmOGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xJ2uaonfr74pDiEZ6Drd4LWBDw9GrzJtE0wFTYqNqA0)
+
 
 license
 -------------
@@ -36,9 +37,9 @@ or, go to [releases](https://github.com/manOnWebs/libdoge-mv3/releases) to get t
 
 2. open any chromium based web browser
 
-3. go to chrome://extensions, edge://extensions or browser://extensions
+3. go to chrome://extensions, edge://extensions or browser://extensions (depending on your *Chromium* based browser)
 
-4. enable developer mode if you can
+4). enable developer mode if you can
 
 5. click "load unpacked"
 
