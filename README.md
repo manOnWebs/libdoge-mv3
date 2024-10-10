@@ -40,7 +40,7 @@ or, go to [releases](https://github.com/manOnWebs/libdoge-mv3/releases) to get t
 
 3. go to chrome://extensions, edge://extensions or browser://extensions (depending on your *Chromium* based browser)
 
-4). enable developer mode if you can
+4. enable developer mode if you can
 
 5. click "load unpacked"
 
@@ -52,7 +52,7 @@ or, go to [releases](https://github.com/manOnWebs/libdoge-mv3/releases) to get t
 
    ![image](https://github.com/user-attachments/assets/d43e1158-4e07-4a81-be29-aaadb41e0bba)
 
-
+   
 you are now done installing libdoge-mv3
 
 How to use
@@ -62,14 +62,14 @@ How to use
 
 2. click the extensions button (if doge hasn't already invaded your toolbar)
 
-2.5. pin doge because he's cool :) or don't i don't care
+3. pin doge because he's cool :) or don't i don't care
 
-3. click doge that invaded your browser moments ago
+4. click doge that invaded your browser moments ago
 
    ![image](https://github.com/user-attachments/assets/70d0f723-c79b-42e4-bc04-9980d235a829)
-
+   
 6. doge will now invade that page too
 
 7. press + to add doge
 
-8. press - to subtract doge
+9. press - to subtract doge
