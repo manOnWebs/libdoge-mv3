@@ -27,6 +27,12 @@ You can check the JavaScript if you don't believe me.
 This doge lives [here](https://github.com/manOnWebs/libdoge).
 or, the original [here](https://github.com/ljalonen/libdoge).
 
+Wait, but I use Firefox!
+---------------
+
+Cool, you actually use Firefox instead of Chromium (Firefox ftw)
+Anyway, go install [libdoge firedoge edition](https://addons.mozilla.org/en-US/firefox/addon/libdoge-firedoge-edition/).
+
 How to install 
 ---------------
 
@@ -35,11 +41,11 @@ with git (must have git installed on your system): ```git clone https://github.c
 or, go to [releases](https://github.com/manOnWebs/libdoge-mv3/releases) to get the latest version
 
 
-2. open any chromium based web browser
+2. open any *Chromium* based web browser
 
 3. go to chrome://extensions, edge://extensions or browser://extensions (depending on your *Chromium* based browser)
 
-4. enable developer mode if you can
+4. enable developer mode*
 
 5. click "load unpacked"
 
@@ -53,6 +59,8 @@ or, go to [releases](https://github.com/manOnWebs/libdoge-mv3/releases) to get t
 
    
 you are now done installing libdoge-mv3
+
+*If your browser is managed by an organization, Developer Mode might not be available due to policies.
 
 How to use
 ---------------
